@@ -1,0 +1,25 @@
+.reddit-post {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .reddit-post h3 {
+    color: #333;
+  }
+  
+  .reddit-post p {
+    color: #666;
+  }
+  
+  .reddit-post a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .reddit-post a:hover {
+    text-decoration: underline;
+  }
+  
